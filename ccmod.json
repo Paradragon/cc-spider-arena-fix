@@ -1,0 +1,17 @@
+{
+  "id": "cc-spider-arena-fix",
+  "version": "1.0.0",
+
+  "title": {
+    "en_US": "Spider Arena Score Fix"
+  },
+
+  "description": {
+    "en_US": "Fix for \\c[3]NaN\\c[0] score in Spider Arena."
+  },
+
+  "homepage": "https://github.com/Paradragon/cc-spider-arena-fix",
+  "icons": {
+    "24": "icon.png"
+  }
+}

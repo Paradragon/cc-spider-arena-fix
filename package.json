@@ -1,0 +1,9 @@
+{
+	"name": "cc-spider-arena-fix",
+	
+	"version": "1.0.0",
+
+	"description": "Fix for \\c[3]NaN\\c[0] score in Spider Arena.",
+
+	"homepage": "https://github.com/Paradragon/cc-spider-arena-fix"
+}
