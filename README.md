@@ -1,4 +1,4 @@
-# Spider Arena Score Fix
+# ![icon](./icon.png) Spider Arena Score Fix 
 This mod fixes NaN score in Spider Arena.
 
 ## Installation
