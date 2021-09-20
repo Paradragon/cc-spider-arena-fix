@@ -1,3 +1,5 @@
+### The issue was fixed by developers with the release of CrossCode v1.4.2, making this mod obsolete.
+
 # ![icon](./icon.png) Spider Arena Score Fix 
 This mod fixes NaN score in Spider Arena.
 
